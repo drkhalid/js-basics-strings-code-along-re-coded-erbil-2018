@@ -3,5 +3,4 @@ const currentUser ="Khalid Jamal"
 
 const welcomeMessage ='Welcome to Flatbook, ' + currentUser + '!'
 
-let currentUser1 ="KHALID JAMAL"
-let excitedWelcomeMessage = "WELCOME TO FLATBOOK, " + currentUser1 + '!'
+let excitedWelcomeMessage = "Welcome to Flatbook, "+ currentUser + '!'
